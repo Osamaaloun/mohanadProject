@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044317453338",
+    "project_id": "mohanadproject-295fe",
+    "storage_bucket": "mohanadproject-295fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044317453338:android:ce3f6735eb4f08ad4d25a3",
+        "android_client_info": {
+          "package_name": "com.example.mohanad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044317453338-3jtlan9c2to4e0317kkrlau1p11btnsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwAtFyrsyFfrBDnQIcT14wePZiqtYGXCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044317453338-3jtlan9c2to4e0317kkrlau1p11btnsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
